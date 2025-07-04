@@ -97,7 +97,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=💻+Code+is+Poetry+%7C+Architecture+is+Art+%7C+Innovation+is+Passion;🌟+Transforming+Coffee+into+Code+Since+2021;🚀+Building+Tomorrow's+Digital+Infrastructure+Today" alt="Philosophy Typewriter"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=💻+Coding+in+Real+Time+%7C+Architecting+Live+Solutions+%7C+Innovating+Every+Day;🌟+Turning+Coffee+into+Code+in+the+Now;🚀+Shaping+the+Future+with+Real-Time+Digital+Infrastructure" alt="Philosophy Typewriter"/>
 </div>
 
 <!-- Enhanced Skills Section (Preserved from previous) -->
