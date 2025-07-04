@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=DASARI%20SRI%20HARSHA%20VARDHAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20FULL%20STACK%20ARCHITECT%20%7C%20☁️%20AWS%20CLOUD%20EXPERT%20%7C%20💡%20INNOVATION%20CATALYST&descAlignY=55&descAlign=50&descSize=18" alt="Stunning Header" width="100%"/>
 </div>
 
-<!-- Futuristic Profile Introduction -->
+<!-- Futuristic Profile Introduction with Typewriter Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=35&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=🌟+CRAFTING+DIGITAL+MASTERPIECES+WITH+CODE;⚡+TRANSFORMING+IDEAS+INTO+SCALABLE+SOLUTIONS;🎯+BUILDING+THE+FUTURE+ONE+COMMIT+AT+A+TIME;🔥+WHERE+CREATIVITY+MEETS+CUTTING-EDGE+TECHNOLOGY" alt="Dynamic Introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Dasari+Sri+Harsha+Vardhan!;Full+Stack+Architect;Frontend+Developer;Backend+Developer;AWS+Cloud+Expert;Bug+Bounty+Enthusiast;Innovation+Catalyst;Building+the+Future+with+Code" alt="Typewriter Introduction"/>
 </div>
 
 <!-- Elite Status Badges -->
@@ -97,7 +97,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=💻+Code+is+Poetry+%7C+Architecture+is+Art+%7C+Innovation+is+Passion;🌟+Transforming+Coffee+into+Code+Since+2021;🚀+Building+Tomorrow's+Digital+Infrastructure+Today" alt="Philosophy"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=💻+Code+is+Poetry+%7C+Architecture+is+Art+%7C+Innovation+is+Passion;🌟+Transforming+Coffee+into+Code+Since+2021;🚀+Building+Tomorrow's+Digital+Infrastructure+Today" alt="Philosophy Typewriter"/>
 </div>
 
 <!-- Enhanced Skills Section (Preserved from previous) -->
@@ -107,7 +107,7 @@
 
 ### 🎨 **Frontend Mastery**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular,tailwind,bootstrap,sass,figma&theme=dark" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&theme=dark" alt="Frontend Skills"/>
 </div>
 
 <div align="center">
@@ -119,7 +119,7 @@
 
 ### ⚙️ **Backend Excellence**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,express,django,flask,fastapi,graphql,mongodb,mysql,postgresql,redis&theme=dark" alt="Backend Skills"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb,mysql&theme=dark" alt="Backend Skills"/>
 </div>
 
 <div align="center">
@@ -184,7 +184,7 @@
 
 <!-- Elite GitHub Analytics Dashboard -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=9B59B6&center=true&vCenter=true&width=600&lines=GITHUB+ANALYTICS" alt="GitHub Analytics"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=45&duration=2000&pause=500&color=9B59B6&center=true&vCenter=true&width=600&lines=MY+GITHUB+STATS" alt="My Github Stats"/>
 </div>
 
 <div align="center">
@@ -196,13 +196,18 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Sri4834&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&custom_title=🚀%20HARSHA'S%20GITHUB%20MASTERY&title_color=00F5FF&text_color=FFFFFF&icon_color=FF6B6B&bg_color=0D1117" alt="GitHub Stats" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Sri4834&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true&custom_title=My%20Github%20Mastery&title_color=00F5FF&text_color=FFFFFF&icon_color=FF6B6B&bg_color=0D1117" alt="My Github Mastery" width="100%"/>
       </td>
       <td align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sri4834&theme=synthwave-purple&hide_border=true&stroke=00F5FF&background=0D1117&ring=FF6B6B&fire=FFD700&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFD700&sideNums=FF6B6B" alt="GitHub Streak" width="100%"/>
       </td>
     </tr>
   </table>
+</div>
+
+<!-- Total Public Repos -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sri4834&show_icons=false&hide=prs,issues,contribs&count_private=false&hide_border=true&title_color=FFD700&text_color=FFFFFF&bg_color=0D1117&custom_title=Total%20Public%20Repositories" alt="Total Public Repositories" width="40%"/>
 </div>
 
 <!-- Language Mastery Visualization -->
@@ -216,8 +221,11 @@
 </div>
 
 <!-- Achievement Showcase -->
+<!-- GitHub Trophies removed as requested -->
+
+<!-- Neon Flickering Divider -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sri4834&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/rohitguptab/rohitguptab/output/github-contribution-grid-neon.svg" alt="Neon Flickering Divider" width="100%"/>
 </div>
 
 <!-- Enhanced Projects Section (Preserved from previous) -->
@@ -344,41 +352,56 @@
   </table>
 </div>
 
-<!-- Availability & Location Matrix -->
+<!-- Availability & Location Matrix (use plain text for real info) -->
 <div align="center">
-  <h3>📍 AVAILABILITY MATRIX</h3>
-  <img src="https://img.shields.io/badge/🌍-LOCATION-INDIA-FF4500?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=FF4500" alt="Location"/>
-  <img src="https://img.shields.io/badge/💼-REMOTE%20WORK-AVAILABLE-00FF00?style=for-the-badge&logo=zoom&logoColor=white&labelColor=00FF00" alt="Remote Work"/>
-  <img src="https://img.shields.io/badge/🤝-FREELANCE-OPEN-00BFFF?style=for-the-badge&logo=upwork&logoColor=white&labelColor=00BFFF" alt="Freelance"/>
-  <img src="https://img.shields.io/badge/⏰-TIMEZONE-IST%20(UTC%2B5:30)-FFD700?style=for-the-badge&logo=clockify&logoColor=white&labelColor=FFD700" alt="Timezone"/>
+
+### 📍 AVAILABILITY MATRIX
+
+| Location | Remote Work | Freelance | Timezone |
+|----------|-------------|-----------|----------|
+| 🇮🇳 India | ✅ Available | ✅ Open | IST (UTC+5:30) |
+
 </div>
 
-<!-- Inspirational Tech Quote -->
+<!-- Inspirational Tech Quote (use plain text for real info) -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave&border=true&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" alt="Inspirational Quote"/>
+
+> *"The best way to predict the future is to create it."*  
+> — Peter Drucker
+
 </div>
+
+<!-- Spectacular Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- Snake Animation Contribution Tracker -->
+<!--
 <div align="center">
   <h2>🐍 CONTRIBUTION SNAKE ANIMATION</h2>
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
 </div>
+-->
 
 <!-- Ultra-Modern Footer -->
-<div align="center">
+<div align="center" style="margin-top: 40px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=35&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Let's%20Connect%20and%20Build%20Amazing%20Things%20Together!&descAlignY=85&descAlign=50" alt="Stunning Footer" width="100%"/>
 </div>
 
-<!-- Final Call-to-Action Messages -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=1000&lines=⭐+STAR+MY+REPOSITORIES+IF+YOU+FIND+THEM+VALUABLE!;🤝+ALWAYS+OPEN+TO+COLLABORATION+%26+INNOVATIVE+PROJECTS;💡+LET'S+TRANSFORM+IDEAS+INTO+DIGITAL+REALITY!;🚀+BUILDING+THE+FUTURE+ONE+LINE+OF+CODE+AT+A+TIME" alt="Final Messages"/>
+<!-- Final Call-to-Action Messages (plain text, not image) -->
+<div align="center" style="margin-top: 20px;">
+  
+**⭐ STAR MY REPOSITORIES IF YOU FIND THEM VALUABLE!**  
+**🤝 ALWAYS OPEN TO COLLABORATION & INNOVATIVE PROJECTS**  
+**💡 LET'S TRANSFORM IDEAS INTO DIGITAL REALITY!**  
+**🚀 BUILDING THE FUTURE ONE LINE OF CODE AT A TIME**
+
 </div>
 
 ---
 
 <!-- Premium Footer Credits -->
-<div align="center">
-  <table style="border: none;">
+<div align="center" style="margin-top: 20px;">
+  <table style="border: none; margin: 0 auto;">
     <tr>
       <td align="center">
         <img src="https://img.shields.io/badge/© 2025-DASARI%20SRI%20HARSHA%20VARDHAN-FF6B6B?style=for-the-badge&labelColor=000000" alt="Copyright"/>
@@ -406,5 +429,4 @@ Let's build something extraordinary together!
 
 - Harsha 🚀
 -->
-```
 
