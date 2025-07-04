@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Ultra-Modern Animated Header with Neon Typewriter Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=%20&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=&descAlignY=55&descAlign=50&descSize=18" alt="Stunning Header" width="100%"/>
+  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1400&q=80" alt="Eye Catching Header Background" width="100%" style="border-radius: 12px; box-shadow: 0 4px 32px #00f5ff55;"/>
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=DASARI+SRI+HARSHA+VARDHAN" alt="Neon Name Typewriter"/>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=1800&pause=700&color=FFD700&center=true&vCenter=true&width=1000&lines=Full+Stack+Architect;Frontend+Developer;Backend+Developer;AWS+Cloud+Expert;Bug+Bounty+Enthusiast;Innovation+Catalyst;Building+the+Future+with+Code" alt="Designation Typewriter"/>
@@ -290,7 +290,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="450" alt="Contact Animation"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="450" alt="Contact Animation"/>
 </div>
 
 ### 🚀 **LET'S BUILD THE FUTURE TOGETHER!**
