@@ -1,10 +1,12 @@
-<div align="center">
-  <!-- Ultra-Modern Animated Header with Neon Typewriter Effect -->
-  <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=1400&q=80" alt="Eye Catching Header Background" width="100%" style="border-radius: 12px; box-shadow: 0 4px 32px #00f5ff55;"/>
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=DASARI+SRI+HARSHA+VARDHAN" alt="Neon Name Typewriter"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=1800&pause=700&color=FFD700&center=true&vCenter=true&width=1000&lines=Full+Stack+Architect;Frontend+Developer;Backend+Developer;AWS+Cloud+Expert;Bug+Bounty+Enthusiast;Innovation+Catalyst;Building+the+Future+with+Code" alt="Designation Typewriter"/>
-</div>
+<a href="http://www.github.com/Jayavardhan56">
+  <img align="center" src="https://github.com/gautamankoji/gautamankoji/blob/master/.github/workflows/images/header.svg" alt="GitHub header" width="100%"/>
+</a>
+
+<!-- Typing Animation with Link -->
+<a href="http://www.github.com/Jayavardhan56">
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=25&duration=4000&pause=1000&color=50CCA0&center=true&vCenter=true&random=false&width=435&lines=Hi,+I'm+K+Jayavardhan;B.Tech+Final+Year+Student;Aspiring+DevOps+Engineer;Cloud+Computing+Enthusiast;Coding+and+Learning!" alt="K Jayavardhan" />
+</a>
+<br>
 
 <!-- Elite Status Badges -->
 <div align="center">
