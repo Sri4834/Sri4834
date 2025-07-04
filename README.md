@@ -5,7 +5,16 @@
 <!-- Typing Animation with Neon Glow Effect -->
 <div align="center">
   <a href="https://www.github.com/Sri4834" style="text-decoration: none;">
-    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=4000&pause=1000&color=39FF14&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan;I'm+a+Frontend+Developer;I'm+a+Java+Developer;I'm+a+Web+Developer;I'm+a+Bug+Bounty+Enthusiast;I'm+Driven+by+Curiosity+and+Continuous+Learning;Building+Modern+Web+Experiences!" alt="D Sri Harsha Vardhan" />
+    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=600
+    &lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan
+    ;I'm+a+Frontend+Developer
+    ;I'm+a+Java+Developer
+    ;I'm+a+Web+Developer
+    ;I'm+a+Bug+Bounty+Enthusiast
+    ;I'm+Driven+by+Curiosity+and+Continuous+Learning
+    ;Building+Modern+Web+Experiences!
+    &color=FF6347&color=FFD700&color=00BFFF&color=32CD32&color=FF69B4&color=FFA500&color=00CED1" 
+    alt="D Sri Harsha Vardhan" />
   </a>
   <br/>
   <span style="
@@ -13,19 +22,14 @@
     margin-top: 10px;
     font-family: 'Pacifico', cursive, sans-serif;
     font-size: 2rem;
-    color: #39FF14;
-    text-shadow:
-      0 0 5px #39FF14,
-      0 0 10px #39FF14,
-      0 0 20px #39FF14,
-      0 0 40px #00ffea,
-      0 0 80px #00ffea;
+    color: #000000;
     font-weight: bold;
     letter-spacing: 1px;
   ">
-    ⚡ Neon Developer Vibes ⚡
+    ⚡ Developer Vibes ⚡
   </span>
 </div>
+
 
 <!-- Elite Status Badges -->
 <div align="center">
