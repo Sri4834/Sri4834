@@ -42,7 +42,7 @@
 
 <!-- About Me Section with Typing Effect -->
 <a href="https://www.github.com/Sri4834" target="_blank" style="text-decoration:none;">
-  <div align="center" style="margin-bottom: 5px;">
+  <div align="center" style="margin-bottom: 15px;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=435&lines=About+Me" alt="About Me Typing"/>
   </div>
 
