@@ -1,6 +1,9 @@
 <div align="center">
-  <!-- Ultra-Modern Animated Header with Typewriter Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=DASARI%20SRI%20HARSHA%20VARDHAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Hi%2C%20I'm%20Dasari%20Sri%20Harsha%20Vardhan!%20%7C%20Full%20Stack%20Architect%20%7C%20Frontend%20Developer%20%7C%20Backend%20Developer%20%7C%20AWS%20Cloud%20Expert%20%7C%20Bug%20Bounty%20Enthusiast%20%7C%20Innovation%20Catalyst%20%7C%20Building%20the%20Future%20with%20Code&descAlignY=55&descAlign=50&descSize=18&descFont=Orbitron&descFontColor=00F5FF" alt="Stunning Header" width="100%"/>
+  <!-- Ultra-Modern Animated Header with Neon Typewriter Effect -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=%20&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=&descAlignY=55&descAlign=50&descSize=18" alt="Stunning Header" width="100%"/>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=48&duration=2000&pause=800&color=00F5FF&center=true&vCenter=true&width=1000&lines=DASARI+SRI+HARSHA+VARDHAN" alt="Neon Name Typewriter"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=32&duration=1800&pause=700&color=FFD700&center=true&vCenter=true&width=1000&lines=Full+Stack+Architect;Frontend+Developer;Backend+Developer;AWS+Cloud+Expert;Bug+Bounty+Enthusiast;Innovation+Catalyst;Building+the+Future+with+Code" alt="Designation Typewriter"/>
 </div>
 
 <!-- Elite Status Badges -->
@@ -424,9 +427,6 @@ Let's build something extraordinary together!
 
 - Harsha 🚀
 -->
-As a fellow developer, I'd love to connect and collaborate on innovative projects!
-Let's build something extraordinary together! 
-
 - Harsha 🚀
 -->
 
