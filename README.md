@@ -1,58 +1,31 @@
-<!-- Header Typing Animation with Different Colors per Line -->
-<div align="center">
-  <a href="https://www.github.com/Sri4834" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=3000&pause=1000&color=FF6347&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan" alt="Line1"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=I'm+a+Frontend+Developer" alt="Line2"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=I'm+a+Java+Developer" alt="Line3"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=I'm+a+Web+Developer" alt="Line4"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=I'm+a+Bug+Bounty+Enthusiast" alt="Line5"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Driven+by+Curiosity+and+Learning" alt="Line6"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Experiences!" alt="Line7"/>
-  </a>
-
-  <br/>
-
-  <span style="
-    display: inline-block;
-    margin-top: 10px;
-    font-family: 'Pacifico', cursive, sans-serif;
-    font-size: 2rem;
-    color: #222222;
-    font-weight: bold;
-    letter-spacing: 1px;
-  ">
-    ⚡ Developer Vibes ⚡
-  </span>
-</div>
-
+<a href="https://www.github.com/Sri4834">
+  <img align="center" src="https://github.com/gautamankoji/gautamankoji/blob/master/.github/workflows/images/header.svg" alt="GitHub header" width="100%"/>
+</a>
 
 <!-- Typing Animation with Neon Glow Effect -->
+<!-- Typing Animation (Looping with Neon Style Color) -->
 <div align="center">
   <a href="https://www.github.com/Sri4834" style="text-decoration: none;">
-    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=600
-    &lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan
-    ;I'm+a+Frontend+Developer
-    ;I'm+a+Java+Developer
-    ;I'm+a+Web+Developer
-    ;I'm+a+Bug+Bounty+Enthusiast
-    ;I'm+Driven+by+Curiosity+and+Continuous+Learning
-    ;Building+Modern+Web+Experiences!
-    &color=FF6347&color=FFD700&color=00BFFF&color=32CD32&color=FF69B4&color=FFA500&color=00CED1" 
-    alt="D Sri Harsha Vardhan" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&duration=3000&pause=700&color=00FFFF&center=true&vCenter=true&repeat=true&width=750&lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan;Frontend+Developer+💻;Java+Developer+☕;Web+Developer+🌐;Bug+Bounty+Enthusiast+🔐;Curiosity+Driven+🧠;Continuous+Learner+📚;Building+Modern+Web+Experiences!" 
+    alt="Typing Animation" />
   </a>
+
   <br/>
+
   <span style="
     display: inline-block;
     margin-top: 10px;
-    font-family: 'Pacifico', cursive, sans-serif;
+    font-family: 'Orbitron', sans-serif;
     font-size: 2rem;
-    color: #000000;
+    color: #00ffff;
+    text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff;
     font-weight: bold;
     letter-spacing: 1px;
   ">
     ⚡ Developer Vibes ⚡
   </span>
 </div>
+
 
 
 <!-- Elite Status Badges -->
