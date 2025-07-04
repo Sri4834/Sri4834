@@ -1,16 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,12&height=300&section=header&text=Dasari%20Sri%20Harsha%20Vardhan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Architect%20%7C%20Innovation%20Enthusiast&descAlignY=51&descAlign=62" alt="Header Banner" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=36&duration=2500&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=👋+Hi%2C+I'm+Dasari+Sri+Harsha+Vardhan!;🎨+Frontend+Developer+%7C+⚙️+Backend+Developer;☁️+AWS+Cloud+Enthusiast+%7C+DevOps+Learner;🔒+Bug+Bounty+Hunter+%7C+Security+Explorer;🚀+Building+Colorful+Digital+Experiences;🌟+Open+Source+%26+Tech+Community+Lover" alt="Dynamic Intro"/>
 </div>
 
-<!-- Dynamic Typing Introduction -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🚀+Crafting+Digital+Experiences+with+Code;☁️+Building+Scalable+Cloud+Solutions;💡+Transforming+Ideas+into+Reality;🌟+Full+Stack+%26+AWS+Cloud+Expert" alt="Dynamic Intro"/>
-</div>
+<br/>
 
-<!-- Enhanced Profile Metrics -->
+<!-- Enhanced Profile Metrics (centered, simple for GitHub compatibility) -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Sri4834&label=Profile+Views&color=00d4ff&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Sri4834?label=Followers&style=for-the-badge&color=00d4ff&labelColor=1a1a1a" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/Sri4834?label=Followers&style=for-the-badge&color=ff6b6b&labelColor=1a1a1a" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge&labelColor=1a1a1a" alt="Open to Collaborate"/>
 </div>
 
@@ -347,4 +344,3 @@
 If you're reading this, you're probably a fellow developer who appreciates clean code and attention to detail.
 Let's connect and build something amazing together! 
 -->
-```
