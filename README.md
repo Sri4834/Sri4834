@@ -4,7 +4,7 @@
 
 <!-- Typing Animation with Link -->
 <a href="http://www.github.com/Jayavardhan56">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan;Frontend+Developer;Java+Developer;Web+Developer;Bug+Bounty+Enthusiast;Driven+by+Curiosity+and+Continuous+Learning;Building+Modern+Web+Experiences!" alt="D Sri Harsha Vardhan" />
+  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan;I'm a Frontend+Developer;I'm a Java+Developer;I'm a Web+Developer;I'm a Bug+Bounty+Enthusiast;I'm Driven+by+Curiosity+and+Continuous+Learning;Building+Modern+Web+Experiences!" alt="D Sri Harsha Vardhan" />
 </a>
 <br>
 
