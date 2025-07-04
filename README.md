@@ -1,11 +1,6 @@
 <div align="center">
-  <!-- Ultra-Modern Animated Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=DASARI%20SRI%20HARSHA%20VARDHAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20FULL%20STACK%20ARCHITECT%20%7C%20☁️%20AWS%20CLOUD%20EXPERT%20%7C%20💡%20INNOVATION%20CATALYST&descAlignY=55&descAlign=50&descSize=18" alt="Stunning Header" width="100%"/>
-</div>
-
-<!-- Futuristic Profile Introduction with Typewriter Effect -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=2000&pause=800&color=FF6B6B&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Dasari+Sri+Harsha+Vardhan!;Full+Stack+Architect;Frontend+Developer;Backend+Developer;AWS+Cloud+Expert;Bug+Bounty+Enthusiast;Innovation+Catalyst;Building+the+Future+with+Code" alt="Typewriter Introduction"/>
+  <!-- Ultra-Modern Animated Header with Typewriter Effect -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=350&section=header&text=DASARI%20SRI%20HARSHA%20VARDHAN&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Hi%2C%20I'm%20Dasari%20Sri%20Harsha%20Vardhan!%20%7C%20Full%20Stack%20Architect%20%7C%20Frontend%20Developer%20%7C%20Backend%20Developer%20%7C%20AWS%20Cloud%20Expert%20%7C%20Bug%20Bounty%20Enthusiast%20%7C%20Innovation%20Catalyst%20%7C%20Building%20the%20Future%20with%20Code&descAlignY=55&descAlign=50&descSize=18&descFont=Orbitron&descFontColor=00F5FF" alt="Stunning Header" width="100%"/>
 </div>
 
 <!-- Elite Status Badges -->
@@ -424,6 +419,11 @@
 If you're reading this source code, you're clearly someone who appreciates 
 attention to detail and clean code architecture. 
 
+As a fellow developer, I'd love to connect and collaborate on innovative projects!
+Let's build something extraordinary together! 
+
+- Harsha 🚀
+-->
 As a fellow developer, I'd love to connect and collaborate on innovative projects!
 Let's build something extraordinary together! 
 
