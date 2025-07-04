@@ -1,5 +1,5 @@
 <a href="https://github.com/dasarisriharshavardhan">
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Dasari%20Sri%20Harsha%20Vardhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast&descAlignY=51&descAlign=62" alt="Header" width="100%"/>
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Dasari%20Sri%20Harsha%20Vardhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AWS%20Cloud%20Enthusiast&descAlignY=51&descAlign=62" alt="Header" width="100%"/> 
 </a>
 
 <!-- Typing Animation -->
