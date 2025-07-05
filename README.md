@@ -450,7 +450,7 @@ attention to detail and clean code architecture.
 As a fellow developer, I'd love to connect and collaborate on innovative projects!
 Let's build something extraordinary together! 
 
-- Harsha 🚀
+- Sri Harsha 🚀
 -->
-- Harsha 🚀
+- Sri Harsha 🚀
 
