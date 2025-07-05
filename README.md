@@ -2,7 +2,7 @@
   <img align="center" src="https://github.com/gautamankoji/gautamankoji/blob/master/.github/workflows/images/header.svg" alt="GitHub header" width="100%"/>
 </a>
 
-<!-- Typing Animation with Neon Glow Effect -->
+<!-- Typing Animation with Neon Glow Effect --> 
 <div align="center">
   <a href="https://www.github.com/Sri4834" style="text-decoration: none;">
     <img width="100%" src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=4000&pause=1000&center=true&vCenter=true&random=false&width=600
@@ -41,7 +41,7 @@
 
 <!-- Premium Social Network Hub -->
 <div align="center">
-  <h2>🌐 CONNECT WITH THE ARCHITECT</h2>
+ <!-- <h2>🌐 CONNECT WITH THE ARCHITECT</h2> -->
   <table>
     <tr>
       <td align="center" width="200">
