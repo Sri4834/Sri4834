@@ -41,7 +41,7 @@
 
 <!-- Premium Social Network Hub -->
 <div align="center">
- <!-- <h2>🌐 CONNECT WITH THE ARCHITECT</h2> -->
+  <h2>🌐 CONNECT WITH THE ARCHITECT</h2>
   <table>
     <tr>
       <td align="center" width="200">
