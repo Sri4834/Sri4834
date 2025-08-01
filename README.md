@@ -5,7 +5,7 @@
 <a href="https://github.com/Sri4834">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=250&section=header&text=Sri%20Harsha%20Vardhan&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=60&descAlign=50" 
-    alt="Sri Harsha Vardhan Header" 
+    alt="Dasari Sri Harsha Vardhan Header" 
     width="100%"
   />
 </a>
