@@ -2,17 +2,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=200&width=300&section=header&text=Sri%20Harsha%20Vardhan&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50"/>
 </a>
 -->
-<a href="https://github.com/Sri4834">
+<!-- <a href="https://github.com/Sri4834">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=250&section=header&text=Sri%20Harsha%20Vardhan&fontSize=45&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=60&descAlign=50" 
     alt="Sri Harsha Vardhan Header" 
     width="100%"
   />
 </a>
+-->
+<a href="https://github.com/Sri4834">
+  <img 
+    src="https://github.com/DenverCoder1/readme-typing-svg/raw/main/demo-banner.gif" 
+    alt="Glitch Header" 
+    width="100%"
+  />
+</a>
 
 <div align="center">
   <a href="https://www.github.com/Sri4834">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan;Frontend+Developer;Java+Developer;Web+Developer;Bug+Bounty+Enthusiast&color=FF6347&color=FFD700&color=00BFFF&color=32CD32&color=FF69B4" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=34&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan;Frontend+Developer;Java+Developer;Web+Developer;Bug+Bounty+Enthusiast&color=FF6347&color=FFD700&color=00BFFF&color=32CD32&color=FF69B4" alt="Typing Animation" />
   </a>
 </div>
 
