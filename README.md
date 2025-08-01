@@ -1,5 +1,5 @@
 <a href="https://github.com/Sri4834">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=200&section=header&text=Sri%20Harsha%20Vardhan&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=200&width=300&section=header&text=Sri%20Harsha%20Vardhan&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Software%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50"/>
 </a>
 
 <div align="center">
