@@ -1,24 +1,10 @@
-<!-- <a href="https://github.com/Sri4834">
+<a href="https://github.com/Sri4834">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=250&section=header&text=Sri%20Harsha%20Vardhan&fontSize=45&fontAlignY=35&animation=fadeIn&font=Lobster&desc=Software%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=60&descAlign=50" 
     alt="Dasari Sri Harsha Vardhan Header" 
     width="100%"
   />
 </a>
--->
-<a href="https://github.com/Sri4834">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:FF5733,100:FFC300&height=280&section=header&text=Sri%20Harsha%20Vardhan&fontSize=45&fontAlignY=30&animation=fadeIn&font=Lobster&desc=💻%20Software%20Developer&descSize=25&descAlignY=60&descAlign=50" 
-    alt="Sri Harsha Vardhan Header" 
-    width="100%"
-  /> &nbsp;
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFB,100:00FF9D&height=80&section=footer&text=⚡%20Cybersecurity%20Enthusiast&fontSize=22&fontAlignY=50&font=Fira%20Code" 
-    alt="Cybersecurity Enthusiast" 
-    width="100%"
-  />
-</a>
-
 
 <div align="center">
   <a href="https://www.github.com/Sri4834">
