@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://www.github.com/Sri4834">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan;Frontend+Developer;Java+Developer;Web+Developer;Bug+Bounty+Enthusiast;Driven+by+Curiosity+and+Continuous+Learning&color=FF6347&color=FFD700&color=00BFFF&color=32CD32&color=FF69B4" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=27&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan;Frontend+Developer;Java+Developer;Web+Developer;Bug+Bounty+Enthusiast&color=FF6347&color=FFD700&color=00BFFF&color=32CD32&color=FF69B4" alt="Typing Animation" />
   </a>
 </div>
 
