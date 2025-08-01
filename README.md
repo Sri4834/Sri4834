@@ -1,6 +1,6 @@
 <a href="https://github.com/Sri4834">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=250&section=header&text=Dasari%20Sri%20Harsha%20Vardhan&fontSize=45&fontAlignY=35&animation=fadeIn&font=Lobster&fontColor=FFFFFF&desc=Software%20Developer%7CCybersecurity%20Enthusiast&descAlignY=60&descAlign=50&descSize=22&descColor=FFFFFF" 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=250&section=header&text=Dasari%20Sri%20Harsha%20Vardhan&fontSize=45&fontAlignY=35&animation=fadeIn&font=Lobster&fontColor=FFFFFF&desc=Web%20Developer%10%7C%10Cybersecurity%20Enthusiast%10%7%10Java%10Developer&descAlignY=60&descAlign=50&descSize=22&descColor=FFFFFF" 
     alt="Dasari Sri Harsha Vardhan Header" 
     width="100%"
   />
