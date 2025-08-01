@@ -5,7 +5,11 @@
     width="100%"
   />
 </a>
-
+<div id="github-header-image" style="width: 800px; height: 230px; padding: 55px; position: relative; display: flex; align-items: flex-start; justify-content: center; flex-direction: column; background-color: rgb(255, 174, 0); color: white; border-radius: 42px; background-image: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='72' viewBox='0 0 36 72'%3E%3Cpath d='M2 6h12L8 18 2 6zm18 36h12l-6 12-6-12z' fill='%23ededed' fill-opacity='1' fill-rule='evenodd'/%3E%3C/svg%3E&quot;); background-size: 34px; border: 0px solid rgb(255, 255, 255); zoom: 0.935;">
+                    <div class="title" style="font-size: 35px; font-family: DellaRespira; color: rgb(0, 0, 0);">Hey! I'm D Sri Harsha Vardhan</div>
+                    <div class="subtitle" style="font-size: 28px; font-family: Quattrocento; color: rgb(0, 0, 0);">FullStack Web Developer👨‍💻</div>
+                    <div class="img-decoration-container"><img class="img-decoration" src="images/decorations/my-octocat.png" alt="Header image decoration" style="position: absolute; bottom: calc(50%); transform: translateY(50%); left: auto; right: 55px; width: 140px; display: block;"></div>
+                </div>
 <div align="center">
   <a href="https://www.github.com/Sri4834">
     <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=34&duration=4000&pause=1000&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+D+Sri+Harsha+Vardhan;Frontend+Developer;Java+Developer;Web+Developer;Bug+Bounty+Enthusiast&color=FF6347&color=FFD700&color=00BFFF&color=32CD32&color=FF69B4" alt="Typing Animation" />
@@ -33,7 +37,7 @@
 ### 🚀 Technical Expertise
 
 #### Frontend Development
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
