@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Available_for_Hire-00FF00?style=for-the-badge&logo=statuspage&logoColor=white" alt="Hiring Status"/>
+  <img src="https://img.shields.io/badge/Available_for_Hire-00FF00?style=for-the-badge&logo=statuspage&logoColor=white&background-color=green" alt="Hiring Status"/>
   <img src="https://komarev.com/ghpvc/?username=Sri4834&label=Profile+Views&style=for-the-badge&color=00F5FF" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/Sri4834?label=Followers&style=for-the-badge&color=FF6B6B" alt="GitHub Followers"/>
 </div>
