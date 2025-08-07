@@ -36,11 +36,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-/*<!--![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)-->*/
+<!--![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)-->
 
 #### Backend & Databases
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+<!--![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 #### Cloud & DevOps
@@ -65,9 +65,9 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **E-Commerce Platform** | Full-stack solution with real-time inventory | React, Node.js, AWS, MongoDB |
-| **Task Management App** | Collaborative task management system | Next.js, TypeScript, PostgreSQL |
-| **Cloud Infrastructure** | Scalable AWS architecture | Terraform, Docker, EC2, S3 |
+| **Smart AI Chrome Extension Platform** | Solution with real-time AI inventory | Python, Html, Css, Js, AIML |
+| **3D portfolio** | 3D personal portfolio | Html, CSS, JS, Spline 3D Models |
+| **AI personal Travel Advisor** | An AI application, Which provides personal suggestions of places to visit in correct time for planning a trip | HTML, CSS, JS, AI |
 
 ---
 
